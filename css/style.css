@@ -1,0 +1,39 @@
+header {
+    background-color: teal;
+    height: 10%;
+}
+main {
+    height: 85%;
+}
+footer {
+    display: flex;
+    background-color: black;
+    height: 5%;
+}
+h1 {
+    font-size: 60px;
+}
+#container {
+    display: flex;
+    justify-content: space-between;
+}
+.bloc-titre {
+    text-align: center;
+    margin-top: 2%;
+}
+.bloc-infos {
+    margin-top: 1%;
+    margin-right: 1%;
+}
+#container-intro {
+    display: flex;
+}
+#bloc-footer {
+    justify-content: space-between;
+}
+.item {
+    margin-top: 1%;
+}
+.item a {
+    margin-left: 10px;
+}
